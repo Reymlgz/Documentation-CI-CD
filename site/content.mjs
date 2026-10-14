@@ -298,7 +298,7 @@ export function article({ card, controls, minis = {} }) {
     <dl>${GLOSSARY.map(([t, d]) => `<div><dt>${t}</dt><dd>${d}</dd></div>`).join("")}</dl>
   </section>
   <footer class="cd-foot">
-    <p>The figure is drawn with the <em>anatomy</em> isometric kit (MIT). The line is a teaching model: its timings are compressed, and real pipelines run stages in parallel and queue concurrent commits.</p>
+    <p>The figures and animations were made with <a href="https://github.com/wheresryan22/anatomy"><em>anatomy</em></a>, an isometric drawing kit (MIT). The line is a teaching model: its timings are compressed, and real pipelines run stages in parallel and queue concurrent commits.</p>
   </footer>
 </main>`;
 }

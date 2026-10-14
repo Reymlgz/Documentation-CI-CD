@@ -111,4 +111,4 @@ The line is a teaching model. Times are compressed: a run takes about 35 seconds
 
 ## Credits
 
-The figures are drawn with the *anatomy* isometric kit (MIT License).
+The figures and animations were made with [anatomy](https://github.com/wheresryan22/anatomy), an isometric drawing kit (MIT License).
